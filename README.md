@@ -1,4 +1,7 @@
 # librewolf-userchrome-mac
+
+![TEST](https://github.com/Natific/librewolf-userchrome-mac/blob/main/Demo-1.png)
+
 my userchrome config for librewolf
 
 to install replace the userchrome.css file in your chrome folder in your firefox profile (found in: about:profiles)
@@ -35,4 +38,3 @@ add ons I use:
   - Modern for Wikipedia - https://addons.mozilla.org/en-US/firefox/addon/modern-for-wikipedia/
     - Makes Wikipedia more appealing to modern eyes
 
-![TEST](https://github.com/Natific/librewolf-userchrome-mac/blob/main/Demo-1.png)
