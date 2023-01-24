@@ -35,4 +35,4 @@ add ons I use:
   - Modern for Wikipedia - https://addons.mozilla.org/en-US/firefox/addon/modern-for-wikipedia/
     - Makes Wikipedia more appealing to modern eyes
 
-https://github.com/Natific/librewolf-userchrome-mac/blob/main/Demo-1.png
+![TEST](https://github.com/Natific/librewolf-userchrome-mac/blob/main/Demo-1.png)
