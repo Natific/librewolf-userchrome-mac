@@ -16,7 +16,7 @@ add ons I use:
   - Privacy Badger - https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/
     -  A second net for uBlock that learns overtime to block trackers that uBlock misses (will often screw up google login so disable it if you can't login to google)
   - Local CDN - https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/
-    - Fork of decrentraleyes which protects you from CDN tracking by injecting and upgrading the connections with local resources
+    - Fork of decentraleyes which protects you from CDN tracking by injecting and upgrading the connections with local resources
   - Canvas Blocker - https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/
     - Blocks HTML Canvas tracking by injecting fake results
   - Clear URLs - https://addons.mozilla.org/en-US/firefox/addon/clearurls/reviews/
