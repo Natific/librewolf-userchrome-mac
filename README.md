@@ -3,7 +3,7 @@ my userchrome config for librewolf
 
 to install replace the userchrome.css file in your chrome folder in your firefox profile (found in: about:profiles)
 
-combiened with black7375's Firefox UI Fix with the Photon preset: https://github.com/black7375/Firefox-UI-Fix
+combined with black7375's Firefox UI Fix with the Photon preset: https://github.com/black7375/Firefox-UI-Fix
 
 firefox theme I used: https://addons.mozilla.org/en-US/firefox/addon/beautiful-opera-gx-fucsia/
 
