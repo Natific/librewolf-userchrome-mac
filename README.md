@@ -10,6 +10,8 @@ combined with black7375's Firefox UI Fix with the Photon preset: https://github.
 
 firefox theme I used: https://addons.mozilla.org/en-US/firefox/addon/beautiful-opera-gx-fucsia/
 
+config files are included in the **config** folder
+
 add ons I use:
 - Content Blockers
   - uBlock Origin - https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
