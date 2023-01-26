@@ -1,0 +1,25 @@
+{
+  "__ConfigsMigration__userValeusSameToDefaultAreCleared": true,
+  "chunkedUserStyleRules0": "LyogU2hvdyB0aXRsZSBvZiB1bnJlYWQgdGFicyB3aXRoIHJlZCBhbmQgaXRhbGljIGZvbnQgKi8KLyoKOnJvb3Quc2lkZWJhciB0YWItaXRlbS51bnJlYWQgLmxhYmVsLWNvbnRlbnQgewogIGNvbG9yOiByZWQgIWltcG9ydGFudDsKICBmb250LXN0eWxlOiBpdGFsaWMgIWltcG9ydGFudDsKfQoqLwoKLyogQWRkIHByaXZhdGUgYnJvd3NpbmcgaW5kaWNhdG9yIHBlciB0YWIgKi8KLyoKOnJvb3Quc2lkZWJhciB0YWItaXRlbS5wcml2YXRlLWJyb3dzaW5nIHRhYi1sYWJlbDpiZWZvcmUgewogIGNvbnRlbnQ6ICLwn5W2IjsKfQoqLw==",
+  "configsVersion": 27,
+  "enableMacOSBehaviors": true,
+  "notifiedFeaturesVersion": 9,
+  "optionsExpandedSections": [
+    "section-appearance",
+    "section-debug"
+  ],
+  "showExpertOptions": true,
+  "sidebarPosition": 1,
+  "style": "photon",
+  "syncDevices": {
+    "device-1667444982196-29202": {
+      "id": "device-1667444982196-29202",
+      "name": "Firefox on macOS",
+      "icon": "device-desktop",
+      "timestamp": 1674739630814
+    }
+  },
+  "userStyleRules": "",
+  "userStyleRulesFieldHeight": "130px",
+  "warnOnCloseTabsByClosebox": false
+}
