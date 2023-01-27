@@ -31,12 +31,12 @@ add ons I use:
 - Visual Changes
   - Tree Style Tabs - https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/
     - The vertical tabs shown in my screenshot that shows tabs in a tree, very useful for doing research 
-  - Language Tool - https://addons.mozilla.org/en-US/firefox/addon/languagetool/
-    -  Grammarly but with a bit more free freatures including multiple language support
   - Better Canvas (for school) - https://addons.mozilla.org/en-US/firefox/addon/better-canvas/
     - Adds a few minor changes to the Canvas platform by Instructure
   - Tabliss - https://addons.mozilla.org/en-US/firefox/addon/tabliss/
     - New tab replacement that offers a clean customizable new tab (my config is included in this repo)
   - Modern for Wikipedia - https://addons.mozilla.org/en-US/firefox/addon/modern-for-wikipedia/
     - Makes Wikipedia more appealing to modern eyes
-
+- Utilities
+  - Language Tool - https://addons.mozilla.org/en-US/firefox/addon/languagetool/
+    -  Grammarly but with a bit more free freatures including multiple language support
