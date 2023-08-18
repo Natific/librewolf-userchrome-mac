@@ -1,6 +1,6 @@
 # librewolf-userchrome-mac
 
-![TEST](https://github.com/Natific/librewolf-userchrome-mac/blob/main/Demo-1.png)
+![TEST](https://github.com/Natific/librewolf-userchrome-mac/blob/main/Demo-2.png)
 
 my userchrome config for librewolf
 
