@@ -12,6 +12,12 @@ firefox theme I used: https://addons.mozilla.org/en-US/firefox/addon/beautiful-o
 
 config files are included in the **config** folder
 
+Firefox / Librewolf settings:
+(mostly pretain to Librewolf's defaults) 
+- I have **ResistFingerprinting** set to **disabled** due to it often having issues with websites, Canvas Defender is a great replacement.
+- Delete cookies and site data when Librewolf is closed **disabled**
+- Remember browsing and download history & Remember search and form history **enabled**
+
 add ons I use:
 - Content Blockers
   - uBlock Origin - https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
