@@ -53,6 +53,10 @@ add ons I use:
     - The vertical tabs shown in my screenshot that shows tabs in a tree, very useful for doing research 
   - Better Canvas (for school) - https://addons.mozilla.org/en-US/firefox/addon/better-canvas/
     - Adds a few minor changes to the Canvas platform by Instructure
+  - Tasks for Canvas - https://addons.mozilla.org/en-US/firefox/addon/tasks-for-canvas/
+    - Changes the annoying task view to a easy to understand graph
+  - Canvas+ - https://addons.mozilla.org/en-US/firefox/addon/canvasplus/
+    - Makes Canvas a bit prettier, adds a search function, and can improve performance
   - Tabliss - https://addons.mozilla.org/en-US/firefox/addon/tabliss/
     - New tab replacement that offers a clean customizable new tab (my config is included in this repo)
   - Modern for Wikipedia - https://addons.mozilla.org/en-US/firefox/addon/modern-for-wikipedia/
